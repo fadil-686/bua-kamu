@@ -1,2 +1,2 @@
-# bua-kamu
-di isi yaa
+# buat-kamu
+di isi yata
